@@ -2,6 +2,7 @@
 # Site
 
 title: MapBD
+baseurl: "https://mapbd.github.io/swag/"
 url: "https://mapbd.github.io/swag/"
 google_analytics_key:
 google_maps_javascript_api_key:
