@@ -17,9 +17,8 @@ author:
   twitter:  # twitter username without the @ symbol
   phone: "+88 01723742424"
 social:
-  name: Fur Template
+  name: 
   links:
-    - https://github.com/CloudCannon/fur-jekyll-template
 
 # -----
 # Build
@@ -32,7 +31,7 @@ collections:
   products:
     output: true
 
-permalink: pretty
+permalink: /:title/
 
 defaults:
   -
